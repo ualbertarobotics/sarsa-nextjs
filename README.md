@@ -1,2 +1,2 @@
-# This is the original UARA website
-it has since been replaced. you can see this one at [uara.ca](https://www.uara.ca/)
+# This is the original SARSA website
+you can see it at [sarsa.ca](https://www.sarsa.ca/)
